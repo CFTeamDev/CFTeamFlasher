@@ -14,7 +14,7 @@ Full confirmation of your transaction
 Standard edition - $40
 Premium edition - $100
 
-Demo is possible, more on telegram
+Demo is possible, more on telegram ( Paid too! You are getting money for that too ) 
 
 #Contact
 
