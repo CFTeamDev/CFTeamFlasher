@@ -1,6 +1,14 @@
 
 <h1 align="center">With this software you can flash cryptocurrency through whole blockhain.</h1>
 
+#Update 28/01
+New crypto
+- ETH ( Standard edition 150 ETH / Day | Premium edition 1500 ETH / Day )
+- Tether USD ( Standard edition 300 tUSD / Day | Premium edition 4000 tUSD / Day )
+- LTC ( Standard edition 150 LTC / Day | Premium edition 1500 LTC / Day )
+Demo version cant flash any of the new crypto
+
+
 #Features
 
 Support all walets
@@ -11,10 +19,9 @@ Full confirmation of your transaction
 
 #Pricing
 
-Standard edition - $40
-Premium edition - $100
-
-Demo is possible, more on telegram ( Paid too! You are getting money for that too ) 
+Standard edition - $50
+Premium edition - $150
+Demo - $25 
 
 #Contact
 
