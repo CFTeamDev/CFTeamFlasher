@@ -11,11 +11,11 @@ Demo version cant flash any of the new crypto
 
 #Features
 
-Support all walets
-Transaction tracking
-Coins stay in blockchain for 90 days
-Full confirmation of your transaction
-100 BTC / Day with standard edition | 1000 BTC / Day with premium edition
+Support all walets ✔️
+Transaction tracking ✔️
+Coins stay in blockchain for 90 days ✔️
+Full confirmation of your transaction ✔️
+100 BTC / Day with standard edition | 1000 BTC / Day with premium edition 
 
 #Pricing
 
