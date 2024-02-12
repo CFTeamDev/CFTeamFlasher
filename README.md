@@ -32,4 +32,9 @@ Demo - $25 | Can flash only Bitcoin
 
 #Contact
 
-Look out for peoples impersonating me, this is only telegram I use - https://t.me/RunninForBTC
+Look out for peoples impersonating me, this is only telegram I use - https://t.me/CFTeam_RunninForBTC
+
+
+<p align="center">  
+<img width="100" src="https://imgur.com/zE3w3l4.png" alt="CF Team logo">
+</p>
