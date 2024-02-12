@@ -1,12 +1,19 @@
 
 <h1 align="center">With this software you can flash cryptocurrency through whole blockhain.</h1>
 
+#Update 12/02
+New Crypto
+- Solana ( Standard edition 200 Sol / Day | Premium edition 2000 Sol / Day )
+- Avalanche ( Standard edition 100 Avax / Day | Premium edition 1000 Avax / Day )
+- Tron ( Standard edition 150 Trx / Day | Premium edition 2000 Trx / Day )
+- Monero ( Standard edition 300 Xmr / Day | Premium edition 3500 Xmr / Day )
+
+
 #Update 28/01
 New crypto
-- ETH ( Standard edition 150 ETH / Day | Premium edition 1500 ETH / Day )
+- Ethereum ( Standard edition 150 Eth / Day | Premium edition 1500 Eth / Day )
 - Tether USD ( Standard edition 300 tUSD / Day | Premium edition 4000 tUSD / Day )
-- LTC ( Standard edition 150 LTC / Day | Premium edition 1500 LTC / Day )
-Demo version cant flash any of the new crypto
+- Litecoin ( Standard edition 150 Ltc / Day | Premium edition 1500 Ltc / Day )
 
 
 #Features
@@ -21,7 +28,7 @@ Full confirmation of your transaction ✔️
 
 Standard edition - $50
 Premium edition - $150
-Demo - $25 
+Demo - $25 | Can flash only Bitcoin
 
 #Contact
 
