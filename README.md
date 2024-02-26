@@ -6,6 +6,7 @@ New Crypto
 - Binance coin
 - Polkadot
 - Dogecoin
+
 Demo changes
 New crypto
 - USDT
