@@ -31,6 +31,7 @@ Coins stay in blockchain for 90 days ✔️
 Full confirmation of your transaction ✔️
 
 #Limits
+
 https://paste.fo/287f41df49b4
 
 #Pricing
