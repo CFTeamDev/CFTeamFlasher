@@ -40,9 +40,9 @@ https://paste.fo/287f41df49b4
 
 #Pricing
 
-Standard edition - $75
-Premium edition - $200
-Demo - $50 | Can flash only Bitcoin
+Standard edition - $75 
+Premium edition - $200 
+Demo - $50 | Can flash only Bitcoin 
 
 #Contact
 
