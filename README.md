@@ -1,52 +1,61 @@
 
 <h1 align="center">With this software you can flash cryptocurrency through whole blockhain.</h1>
 
-#Update 26/02
-New Crypto
+# Update 26/02
+
+**New Crypto**
 - Binance coin
 - Polkadot
 - Dogecoin
 
-Demo changes
-New crypto
+## Demo changes
+
+**New crypto**
 - USDT
 - Litecoin
 
-#Update 12/02
-New Crypto
+# Update 12/02
+
+**New Crypto**
 - Solana
 - Avalanche
 - Tron
 - Monero
 
 
-#Update 28/01
-New crypto
+# Update 28/01
+
+**New crypto**
 - Ethereum
 - Tether USD
 - Litecoin
 
 
-#Features
+## Features
 
 Support all walets ✔️
+
 Transaction tracking ✔️
+
 Coins stay in blockchain for 90 days ✔️
+
 Full confirmation of your transaction ✔️
 
-#Limits
+## Limits
 
 https://paste.fo/287f41df49b4
 
-#Pricing
+# Pricing
 
 Standard edition - $75 
+
 Premium edition - $200 
-Demo - $50 | Can flash only Bitcoin 
 
-#Contact
+Demo - $50 | Flash BTC, USDT, LTC
 
-Look out for peoples impersonating me, this is only telegram I use - https://t.me/CFTeam_RunninForBTC
+# Contact
+
+Look out for peoples impersonating us, this is only verified sellers - https://t.me/CFTeam_RunninForBTC | https://t.me/CFTeam_LTCexe
 
 
 <p align="center">  
