@@ -1,5 +1,5 @@
 
-<h1 align="center">With this software you can flash cryptocurrency through whole blockhain.</h1>
+<h1 align="center">This software creates fake transaction to you wallet.</h1>
 
 # Update 26/02
 
@@ -33,17 +33,20 @@
 
 ## Features
 
-Support all walets ✔️
+All wallets supported ✔️
 
-Transaction tracking ✔️
+Tradable ✔️
 
 Coins stay in blockchain for 90 days ✔️
 
-Full confirmation of your transaction ✔️
 
 ## Limits
 
 https://paste.fo/287f41df49b4
+
+## Networks
+
+https://paste.fo/67f85197e0f2
 
 # Pricing
 
