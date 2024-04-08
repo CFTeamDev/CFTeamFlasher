@@ -1,6 +1,17 @@
 
 <h1 align="center">This software creates fake transaction to you wallet.</h1>
 
+# Update 08/04
+
+**Fixes**
+- Fixed bug where some devices could not flash
+- Fixed bug with Windows10 PRO and HOME edition
+
+**Changes**
+- Removed network tab, now every coins goes straight to mainnet, except USDT. USDT networks are available on the right side
+- Added screenshot on GitHub
+- Background color changed 
+
 # Update 26/02
 
 **New Crypto**
@@ -35,18 +46,20 @@
 
 All wallets supported ✔️
 
-Tradable ✔️
+Tradable / Transferable ✔️
 
 Coins stay in blockchain for 90 days ✔️
+
+You will get full tutorial from our sellers ✔️
 
 
 ## Limits
 
-https://paste.fo/287f41df49b4
+https://paste.fo/c84e754f896e
 
-## Networks
+## Screenshot
 
-https://paste.fo/67f85197e0f2
+https://imgur.com/a/QuYqFKj
 
 # Pricing
 
