@@ -1,6 +1,22 @@
 
 <h1 align="center">This software creates fake transaction to you wallet.</h1>
 
+# Update 16/04 VERSION 1.0
+
+**Fixes**
+- Fixed bug on windows11 where users couldnt see popup window after the process
+- Fixed bug for Exodus Wallet users, couldnt get coins 
+
+**Changes**
+- Background color changed
+- Font changed
+- Process now takes a little bit more because of the bugs
+- Changed the size of the window
+- New image posted here on Github
+
+**Pricing**
+- Now you can get software for $5 to insure you we do not scam and we send the zip after the transfer
+
 # Update 08/04
 
 **Fixes**
@@ -59,15 +75,17 @@ https://paste.fo/c84e754f896e
 
 ## Screenshot
 
-https://imgur.com/a/QuYqFKj
+https://imgur.com/a/9FEjG6F
 
 # Pricing
+
+Software preview - $5
 
 Standard edition - $75 
 
 Premium edition - $200 
 
-Demo - $50 | Flash BTC, USDT, LTC
+Demo - $50 | Only BTC, USDT, LTC available, other coins wont go through the process
 
 # Contact
 
