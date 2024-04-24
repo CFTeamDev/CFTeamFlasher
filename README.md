@@ -1,6 +1,11 @@
 
 <h1 align="center">This software creates fake transaction to you wallet.</h1>
 
+# Update 24/04
+
+**Fixes**
+- Major bug fixes
+
 # Update 16/04 VERSION 1.0
 
 **Fixes**
