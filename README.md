@@ -1,6 +1,11 @@
 
 <h1 align="center">This software creates fake transaction to you wallet.</h1>
 
+# Update 02/05
+
+- Removed preview for $5
+- Fixed Windows 8 bug
+
 # Update 24/04
 
 **Fixes**
@@ -84,7 +89,6 @@ https://imgur.com/a/9FEjG6F
 
 # Pricing
 
-Software preview - $5
 
 Standard edition - $75 
 
