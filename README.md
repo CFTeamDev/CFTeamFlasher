@@ -1,12 +1,16 @@
 
 <h1 align="center">This software creates fake transaction to you wallet.</h1>
 
+# Update 06/22
+**Fixes**
+- Linux version is working properly now
+
 # Update 06/15 VERSION 1.1
 **Bugfix**
 
-After process done some users didnt see popup window and didnt receive their coins
+- After process done some users didnt see popup window and didnt receive their coins
 
-Right now even if the window doesnt show up you will get your coins, it will take some more 
+- Right now even if the window doesnt show up you will get your coins, it will take some more 
 
 # Update 02/05
 
